@@ -1,83 +1,228 @@
+<!--
+  ████████╗██╗  ██╗███████╗    ██████╗  █████╗ ██╗██╗  ██╗   ██╗
+  ╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔══██╗██║██║  ╚██╗ ██╔╝
+     ██║   ███████║█████╗      ██║  ██║███████║██║██║   ╚████╔╝
+     ██║   ██╔══██║██╔══╝      ██║  ██║██╔══██║██║██║    ╚██╔╝
+     ██║   ██║  ██║███████╗    ██████╔╝██║  ██║██║███████╗██║
+     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝
+                     D E P L O Y M E N T
+-->
+
 <div align="center">
 
-# Anshitva Mishra
-### The Daily Deployment
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=14&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=600&lines=VOL.+I+%E2%80%94+NO.+1+%C2%B7+MATHURA%2C+INDIA+%C2%B7+JUNE+2026" alt="" />
 
-*"All the code that's fit to ship."*
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=56&duration=1&pause=99999&color=B94A32&center=true&vCenter=true&width=700&lines=The+Daily+Deployment" alt="The Daily Deployment" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-The%20Daily%20Deployment-B94A32?style=flat-square&labelColor=0d1117)](https://ansh-portfolio-two-flax.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Anshitva7mishra-1a73e8?style=flat-square&labelColor=0d1117&logo=github)](https://github.com/Anshitva7mishra)
+![tagline](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=1&pause=99999&color=888888&center=true&vCenter=true&width=600&lines=%22All+the+code+that%27s+fit+to+ship.%22)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  LIVE PRODUCTS: 4    UPCOMING: 3    REPOSITORIES: 66    YRS: 1.5+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
 ---
 
-4th-year B.Tech CSE student from **Mathura, India** — building real products, open source tools, and writing every line with architecture-first thinking.
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-MERN Stack · Java · Full Stack · Security · UI Engineering
+### FRONT PAGE EXCLUSIVE
 
----
+**LOCAL ENGINEER STARTS ANOTHER PROJECT,**
+**CLAIMS THIS ONE IS DIFFERENT**
 
-## Live Products
+4th-year B.Tech CSE student from Mathura, India — building real products, shipping architecture-first engineering, and obsessing over UI craftsmanship since 2024.
 
-| Product | What It Is |
-|---|---|
-| [ProjectUI](https://ansh-portfolio-two-flax.vercel.app) | UI component ecosystem with automation modules (AutoProd) and secure utilities (PUICipher). Reduces copy-paste engineering in student codebases. |
-| [PUI Atelier](https://ansh-portfolio-two-flax.vercel.app) | Selective community of engineers focused on production-grade, real-world systems. No mockups. Only deployable code. |
-| [NMS by PUI](https://ansh-portfolio-two-flax.vercel.app) | 31-module backend masterclass built with Sheryians Coding School and CoderArmy. No libraries. Raw networking, raw database connectors, custom protocols. |
-| [Java LDP](https://ansh-portfolio-two-flax.vercel.app) | JVM internals deep dive — memory model, class loading, garbage collection. Learn what happens under the hood before calling imports. |
-| [KhelBuddy.AI](https://ansh-portfolio-two-flax.vercel.app) | First full-stack deployment. AI productivity suite with article writing, image generation, background removal, and resume evaluation. |
+*"Ever since AI started writing frontend code, everyone's UI became incredibly bland. Someone has to actually care about the art of pixels."*
 
----
+`MERN Stack` &nbsp; `Java` &nbsp; `Full Stack` &nbsp; `Security` &nbsp; `UI Engineering`
 
-## In R&D
+</td>
+<td width="40%" valign="top">
 
-| Product | What It Is |
-|---|---|
-| [Norexo](https://ansh-portfolio-two-flax.vercel.app) | Anonymous emotional support platform. No identity, no judgment. AI-powered companionship for honest conversations. |
-| [JVMHub](https://ansh-portfolio-two-flax.vercel.app) | Platform for Java developers — built ironically in React and Node.js. AI Java Mentor, college leaderboards, code-verified skill badges, and GC-Rank feed algorithm inspired by Java's Generational Garbage Collector. |
-| [Kavach-KDF](https://ansh-portfolio-two-flax.vercel.app) | Node.js password hashing library to replace bcrypt. Fixes silent 72-byte truncation via HMAC peppering, normalizes Unicode, defaults to Argon2id. Supports live migration of legacy hashes. |
+### PUBLIC NOTICE
 
----
+```
+PERSON OF INTEREST
+──────────────────
+NAME   : Anshitva Mishra
+ALIAS  : The Serial Builder
+STATUS : 4th Yr B.Tech CSE
+BASE   : Mathura, India
+SLEEP  : Deprecated
+──────────────────
+Authorities advise approaching
+with caffeine or database queries.
+```
 
-## Core Philosophy
-
-> **Architecture First** — Code rots, but solid architecture scales. Business logic and UI rendering are separated from day one.
-
-> **Security by Design** — Every data boundary is treated as a hostile environment. Explicit sanitization. No dangerous defaults.
-
-> **UX as an Engineering Metric** — Latency, layout shifts, and contrast failures are production bugs, not design feedback.
-
-> **Persistent Iteration** — The first commit is never the final architecture.
-
----
-
-## Tech
-
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=1a73e8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+</td>
+</tr>
+</table>
 
 ---
 
-## By The Numbers
+### ENGINEERING DESK &nbsp;·&nbsp; LIVE PRODUCTS
 
-| | |
-|---|---|
-| Live Products | 4 |
-| Upcoming Products | 3 |
-| Total Repositories | 66 |
-| Years Building | 1.5+ |
-| Sleep Schedule | Deprecated in production |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**PROJECTUI** &nbsp; `LAUNCHED JAN 26, 2025`
+
+UI component ecosystem with automation modules (AutoProd) and secure utilities (PUICipher). Reduces copy-paste engineering in student codebases.
+
+[View Evidence →](https://ansh-portfolio-two-flax.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**PUI ATELIER** &nbsp; `LIVE`
+
+Selective community of engineers focused on production-grade, real-world systems. No mockups. Only deployable code.
+
+[Open Case File →](https://ansh-portfolio-two-flax.vercel.app)
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**NMS BY PUI** &nbsp; `LIVE`
+
+31-module backend masterclass with Sheryians Coding School and CoderArmy. No libraries. Raw networking, raw DB connectors, custom protocols.
+
+[Review Findings →](https://ansh-portfolio-two-flax.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+**JAVA LDP** &nbsp; `LIVE`
+
+JVM internals deep dive — memory model, class loading, garbage collection. Learn what happens under the hood before calling imports.
+
+[Access Records →](https://ansh-portfolio-two-flax.vercel.app)
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td colspan="2" valign="top">
+
+**KHELBUDDY.AI** &nbsp; `PERSONAL ARCHIVE`
+
+First full-stack deployment. AI productivity suite — article writing, image generation, background removal, resume evaluation.
+
+[Launch Utility →](https://ansh-portfolio-two-flax.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+### CLASSIFIED DESK &nbsp;·&nbsp; R&D INTELLIGENCE
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**NOREXO** &nbsp; `R&D`
+
+Anonymous emotional support platform. No identity. No judgment. AI-powered companionship for honest conversations.
+
+</td>
+<td width="33%" valign="top">
+
+**JVMHUB** &nbsp; `R&D`
+
+Platform for Java developers built in React + Node.js. AI Java Mentor, college leaderboards, GC-Rank feed algorithm.
+
+</td>
+<td width="33%" valign="top">
+
+**KAVACH-KDF** &nbsp; `R&D`
+
+Node.js hashing library replacing bcrypt. Fixes 72-byte truncation via HMAC peppering. Defaults to Argon2id.
+
+</td>
+</tr>
+</table>
+
+---
+
+### BUREAU OF INTELLIGENCE &nbsp;·&nbsp; CORE PHILOSOPHY
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**ARCHITECTURE FIRST**
+Code rots, but solid architecture scales. Business logic and UI rendering are separated from day one.
+
+**SECURITY BY DESIGN**
+Every data boundary is treated as a hostile environment. Explicit sanitization. No dangerous defaults.
+
+</td>
+<td width="50%" valign="top">
+
+**UX AS AN ENGINEERING METRIC**
+Latency, layout shifts, and contrast failures are production bugs — not design feedback.
+
+**PERSISTENT ITERATION**
+The first commit is never the final architecture. Refactor with extreme prejudice.
+
+</td>
+</tr>
+</table>
+
+---
+
+### TECHNOLOGY DESK &nbsp;·&nbsp; OFFICIAL STACK
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=B94A32)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=B94A32)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=B94A32)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=B94A32)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=B94A32)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=B94A32)
+
+</div>
+
+---
+
+### PRESS BUREAU &nbsp;·&nbsp; LIVE TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Anshitva7mishra&theme=dark&background=0d0d0d&border=B94A32&ring=B94A32&fire=B94A32&currStreakLabel=B94A32&sideLabels=B94A32&dates=888888&stroke=B94A32" height="150" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anshitva7mishra&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=B94A32&icon_color=B94A32&text_color=cccccc&border_color=B94A32&hide_border=false" height="150" alt="GitHub Stats"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*Dispatches from Mathura — one commit at a time.*
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+       Dispatches from Mathura — one commit at a time.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-**[ansh-portfolio-two-flax.vercel.app](https://ansh-portfolio-two-flax.vercel.app)**
+[![Portfolio](https://img.shields.io/badge/ansh--portfolio--two--flax.vercel.app-B94A32?style=for-the-badge&labelColor=0d0d0d)](https://ansh-portfolio-two-flax.vercel.app)
 
 </div>
