@@ -10,11 +10,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=14&duration=2000&pause=800&color=888888&center=true&vCenter=true&width=600&lines=VOL.+I+%E2%80%94+NO.+1+%C2%B7+MATHURA%2C+INDIA+%C2%B7+JUNE+2026" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=13&duration=2000&pause=800&color=6B6B6B&center=true&vCenter=true&width=640&lines=VOL.+I+%E2%80%94+NO.+1+%C2%B7+MATHURA%2C+INDIA+%C2%B7+JUNE+2026" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=56&duration=1&pause=99999&color=B94A32&center=true&vCenter=true&width=700&lines=The+Daily+Deployment" alt="The Daily Deployment" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=58&duration=1&pause=99999&color=B94A32&center=true&vCenter=true&width=720&lines=The+Daily+Deployment" alt="The Daily Deployment" />
 
-![tagline](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=1&pause=99999&color=888888&center=true&vCenter=true&width=600&lines=%22All+the+code+that%27s+fit+to+ship.%22)
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=13&duration=1&pause=99999&color=6B6B6B&center=true&vCenter=true&width=620&lines=%22All+the+code+that%27s+fit+to+ship.%22" alt="tagline" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-000000?style=flat-square&height=2" width="100%" height="2"/>
 
 </div>
 
@@ -24,7 +28,7 @@
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  LIVE PRODUCTS: 4    UPCOMING: 3    REPOSITORIES: 66    YRS: 1.5+
+  LIVE PRODUCTS : 4      UPCOMING : 3      REPOSITORIES : 66      YRS : 1.5+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -34,7 +38,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### FRONT PAGE EXCLUSIVE
 
@@ -45,29 +49,55 @@
 
 *"Ever since AI started writing frontend code, everyone's UI became incredibly bland. Someone has to actually care about the art of pixels."*
 
-`MERN Stack` &nbsp; `Java` &nbsp; `Full Stack` &nbsp; `Security` &nbsp; `UI Engineering`
+`MERN STACK` &nbsp; `JAVA` &nbsp; `FULL STACK` &nbsp; `SECURITY` &nbsp; `UI ENGINEERING`
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ### PUBLIC NOTICE
 
 ```
 PERSON OF INTEREST
-──────────────────
-NAME   : Anshitva Mishra
-ALIAS  : The Serial Builder
-STATUS : 4th Yr B.Tech CSE
-BASE   : Mathura, India
-SLEEP  : Deprecated
-──────────────────
+──────────────────────────
+NAME     Anshitva Mishra
+ALIAS    The Serial Builder
+STATUS   4th Yr B.Tech CSE
+BASE     Mathura, India
+SLEEP    Deprecated
+──────────────────────────
 Authorities advise approaching
-with caffeine or database queries.
+with caffeine or database
+queries only.
 ```
 
 </td>
 </tr>
 </table>
+
+---
+
+### THE NEWSROOM TERMINAL
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  ANSHITVA@MATHURA:~$                                       │
+└──────────────────────────────────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=500&color=B94A32&center=true&vCenter=true&multiline=true&width=650&height=110&lines=%3E+booting+anshitva.exe+...;%3E+loading+architecture-first+mindset;%3E+compiling+3+years+of+production+habits;%3E+status%3A+ready+to+ship" alt="terminal boot sequence" />
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  > whoami                                                   │
+│  full-stack engineer, security-minded, UI-obsessed          │
+│  > uptime                                                    │
+│  1.5+ years, 66 repositories, 0 regrets                      │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -98,7 +128,7 @@ Selective community of engineers focused on production-grade, real-world systems
 <tr>
 <td width="50%" valign="top">
 
-**NMS BY PUI** &nbsp; `LIVE`
+**NMS BY PUI**  &nbsp; `LIVE`
 
 31-module backend masterclass with Sheryians Coding School and CoderArmy. No libraries. Raw networking, raw DB connectors, custom protocols.
 
